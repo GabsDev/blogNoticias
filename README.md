@@ -1,2 +1,2 @@
 # blogNoticias
-Blog Noticias PHP Nativo
+Blog Noticias PHP Nativo, MySQL
